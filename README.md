@@ -1,5 +1,3 @@
-A sandbox game made with lwjgl
-
-*very poorly optimized with legacy opengl*
+A baaic sandbox game made with lwjgl
 
 ![gameplay](gameplay.png)
